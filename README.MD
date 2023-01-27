@@ -1,11 +1,13 @@
 <p align="center">
-    <img align="center" src="img/spiderman.jpg" width="255" height="255">
+    <img align="center" src="img/spiderman.jpg" width="175" height="175">
 </p>
 
 
 
 ## 🔗 Links:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://carlos-cruz-personal-web.onrender.com/)
+<a href="https://instacrem.vercel.app/home/">Copia de instagram<img src="https://img.shields.io/badge/instagram-%23DD0031.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://todo-react-app.onrender.com/">React Todo App<img src="https://img.shields.io/badge/react-0000FF.svg?&style=for-the-badge&logo=react&logoColor=white"/></a>
 
 ## Sobre Mi 
 
@@ -21,7 +23,7 @@ Mi objetivo principal es aprender tecnologías que me permitan desenvolverme pro
 <a href="mailto:carlosjose445566@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CarlosCruz1503&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=CarlosCruz1503&theme=merko&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCruz1503&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
