@@ -1,13 +1,13 @@
 <p align="center">
-    <img align="center" src="img/spiderman.jpg" width="175" height="175">
+    <img align="center" src="img/spiderman.jpg" width="200" height="200">
 </p>
 
 
 
 ## 🔗 Links:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://carlos-cruz-personal-web.onrender.com/)
-<a href="https://instacrem.vercel.app/home/">Copia de instagram<img src="https://img.shields.io/badge/instagram-%23DD0031.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://todo-react-app.onrender.com/">React Todo App<img src="https://img.shields.io/badge/react-0000FF.svg?&style=for-the-badge&logo=react&logoColor=white"/></a>
+<a href="https://instacrem.vercel.app/home/"> <h7>Copia de instagram</h7> <img src="https://img.shields.io/badge/instagram-%23DD0031.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://todo-react-app.onrender.com/"><h7>React Todo App</h7><img src="https://img.shields.io/badge/react-0000FF.svg?&style=for-the-badge&logo=react&logoColor=white"/></a>
 
 ## Sobre Mi 
 
