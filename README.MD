@@ -5,9 +5,7 @@
 
 
 ## 🔗 Links:
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://carlos-cruz-personal-web.onrender.com/)
-<a href="https://instacrem.vercel.app/home/"> <img src="https://img.shields.io/badge/copia%20De%20Instagram-%23DD0031.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://todo-react-app.onrender.com/"><img src="https://img.shields.io/badge/react%20todo%20app-0000FF.svg?&style=for-the-badge&logo=react&logoColor=white"/></a>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://carloscruz.vercel.app/https://carlos-cruz-personal-web.onrender.com/)
 
 ## Sobre Mi 
 
