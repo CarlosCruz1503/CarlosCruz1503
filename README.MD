@@ -12,14 +12,14 @@
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="40px">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px">
+    <img src="./img/sass.png" width="40px">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40px">
-  <img src="./img/sass.png" width="40px">
-    <img src="./img/nodeJS.png" width="40px">
-    <img src="./img/typescript.png" width="40px">
+    <img src="./img/NodeJS.png" width="40px">
+    <img src="./img/Typescript.png" width="40px">
   <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="40px">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40px">
-  <img src="./img/django-logo.png" width="40px">
-  <img src="./img/logo.webp" width="40px">
+  <img src="./img/django-logo.png" width="60px">
+  <img src="./img/drf-logo2.png" width="60px">
 </div>
 
 ## 🔗 Links:
