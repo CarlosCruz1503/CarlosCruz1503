@@ -1,7 +1,6 @@
 # Hola
 - 👋 Soy, Carlos Cruz
 - 👀 Me encanta el desarollo Web
-- 🌱 Actualmente estoy buscando trabajo como Dev
 - 💞️ Amo el aportar a proyectos y construir paginas web
 
 <p align="center">
